@@ -1,1 +1,2 @@
 TDMClone/WebglReleaseBuild/Build/WebglReleaseBuild.data filter=lfs diff=lfs merge=lfs -text
+ParkourGame/WebglReleaseBuild/Build/WebglReleaseBuild.data filter=lfs diff=lfs merge=lfs -text
